@@ -8,15 +8,6 @@ A simple React Native app for pricing mango trees and choosing cash and carry, d
 
 ![The app showing the sample MYR 594 planting invoice](docs/screenshots/desktop.png)
 
-## Using the app
-
-1. Enter the number of trees and their height in whole feet. All trees in one order share a height.
-2. Choose whether Blue Tree should plant them. Planting includes delivery.
-3. If planting is declined, choose whether delivery is needed.
-4. Select **Calculate Invoice**. On a phone, scroll below the form to read the invoice.
-
-Changing an input clears the previous invoice. Invalid numbers and missing selections produce inline errors.
-
 ## Pricing rules
 
 | Tree height | Price per tree, tax included |
