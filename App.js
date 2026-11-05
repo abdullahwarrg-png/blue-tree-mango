@@ -111,9 +111,6 @@ export default function App() {
           <Text role="heading" aria-level={1} style={s.title}>
             Mango Tree Purchase System
           </Text>
-          <Text style={s.muted}>
-            Choose your trees. We will take care of the rest.
-          </Text>
         </View>
         <View style={s.card} testID="pricing">
           <Text role="heading" style={s.heading}>
