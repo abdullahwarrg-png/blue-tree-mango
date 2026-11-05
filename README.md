@@ -6,7 +6,6 @@ A simple React Native app for pricing mango trees and choosing cash and carry, d
 
 ![Check and deploy demo](https://github.com/abdullahwarrg-png/blue-tree-mango/actions/workflows/pages.yml/badge.svg)
 
-![The app showing the sample MYR 594 planting invoice](docs/screenshots/desktop.png)
 
 ## Pricing rules
 
@@ -26,6 +25,8 @@ A simple React Native app for pricing mango trees and choosing cash and carry, d
 **Example:** four 7-foot trees cost MYR 396.00. Planting adds MYR 198.00 and delivery adds MYR 0.00, giving **MYR 594.00**.
 
 Arithmetic uses integer sen. Inputs must be positive safe whole numbers; orders exceeding safe integer arithmetic are rejected. Height zero is invalid. This quotation app does not process payments or save orders.
+
+![The app showing the sample MYR 594 planting invoice](docs/screenshots/desktop.png)
 
 ## Run locally
 
