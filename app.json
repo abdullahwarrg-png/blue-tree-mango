@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Blue Tree Mango",
+    "slug": "blue-tree-mango",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#f5f7f6"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png",
+      "output": "single",
+      "name": "Blue Tree Mango Purchase System"
+    },
+    "scheme": "blue-tree-mango",
+    "experiments": {
+      "baseUrl": "/blue-tree-mango"
+    }
+  }
+}

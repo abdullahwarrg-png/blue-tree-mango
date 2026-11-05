@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "checkJs": true,
+    "noEmit": true,
+    "jsx": "react-jsx",
+    "moduleResolution": "bundler",
+    "module": "preserve",
+    "target": "ES2022",
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "strict": false
+  },
+  "include": ["App.js", "index.js"]
+}
