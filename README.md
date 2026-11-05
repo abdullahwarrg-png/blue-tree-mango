@@ -4,6 +4,12 @@ A simple mango tree purchase calculator built with **React Native and Expo**. En
 
 [**Try the live demo →**](https://abdullahwarrg-png.github.io/blue-tree-mango/)
 
+## App structure
+
+- `App.js` — screen layout, validation, calculations, and styles.
+- `app.json` — Expo settings and the GitHub Pages base path.
+- `assets/` — app icon and browser favicon.
+
 ## Features
 
 - Cash and carry, delivery only, or delivery with planting.
@@ -55,10 +61,3 @@ npm run build:web
 
 The exported files are saved in `dist/`. Pushes to `main` automatically deploy the demo to GitHub Pages.
 
-## App structure
-
-- `App.js` — screen layout, validation, calculations, and styles.
-- `app.json` — Expo settings and the GitHub Pages base path.
-- `assets/` — app icon and browser favicon.
-
-This app calculates purchase totals; it does not process payments or save orders.
