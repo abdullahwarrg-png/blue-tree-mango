@@ -1,5 +1,5 @@
 # Blue Tree Mango
-(CSC 3563 MOBILE PROGRAMMING Assignment 01)
+(CSC 3563 MOBILE PROGRAMMING -- Assignment 01)
 
 A simple mango tree purchase calculator built with **React Native and Expo**. Enter the quantity and tree height, choose a service, and calculate an itemised invoice.
 
