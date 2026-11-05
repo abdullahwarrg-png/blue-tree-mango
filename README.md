@@ -21,16 +21,16 @@ All trees in an order must have the same height. Prices include tax.
 | 6–8 feet | MYR 99.00 |
 | Over 8 feet | MYR 199.00 |
 
+**Delivery only:** MYR 20.00 per tree, capped at MYR 100.00 per order.  
+**Delivery and planting:** 50% of the tree subtotal, with delivery included.  
+**Cash and carry:** no additional charge.
+
 ## Features
 
 - Cash and carry, delivery only, or delivery with planting.
 - Clear invoice showing tree costs, service charges, and total due.
 - Input validation and automatic invoice reset when details change.
 - Responsive layout for phones and desktop browsers.
-
-**Delivery only:** MYR 20.00 per tree, capped at MYR 100.00 per order.  
-**Delivery and planting:** 50% of the tree subtotal, with delivery included.  
-**Cash and carry:** no additional charge.
 
 For example, four 7-foot trees with planting cost **MYR 594.00**: MYR 396.00 for the trees plus MYR 198.00 for planting.
 
