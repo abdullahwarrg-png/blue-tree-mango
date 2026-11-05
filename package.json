@@ -16,20 +16,9 @@
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web",
-    "build:web": "expo export --platform web && node scripts/postbuild.cjs",
-    "preview": "node scripts/serve.cjs",
-    "test": "playwright test",
-    "lint": "expo lint",
-    "typecheck": "tsc --noEmit -p jsconfig.json"
+    "build:web": "expo export --platform web"
   },
   "private": true,
-  "devDependencies": {
-    "@playwright/test": "^1.64.1",
-    "@types/react": "~19.3.0",
-    "eslint": "^9.39.5",
-    "eslint-config-expo": "~58.0.4",
-    "typescript": "~6.0.3"
-  },
   "description": "A React Native mango tree invoice app with a responsive Expo web demo.",
   "engines": {
     "node": ">=22.13.0"
